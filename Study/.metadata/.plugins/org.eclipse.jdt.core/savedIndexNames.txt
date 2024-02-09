@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Java\HugStudy\Study\.metadata\.plugins\org.eclipse.jdt.core
+2144735012.index
+1904086694.index
+1865797976.index
+2789967829.index
+3458583357.index
+60792438.index
